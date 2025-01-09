@@ -1,4 +1,4 @@
 # Kiberszeku
 Teaching for english lesson
 
-[asd](https://fsyrt.eu)
+[asd](https://youtube.com)
