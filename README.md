@@ -20,7 +20,10 @@ Teaching for english lesson
 
 
 5p kahoot/quizizz
+    10 kerdes
+
+    
 
   
 
-[asd](https://youtube.com)
+[canva eloadas](https://www.canva.com/design/DAGcQjaJ7lw/0eK5WiM-4qqXGG-sa4-Wfw/edit?utm_content=DAGcQjaJ7lw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
