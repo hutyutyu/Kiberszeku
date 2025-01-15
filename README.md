@@ -1,7 +1,7 @@
 # Kiberszeku
 Teaching for english lesson
 
-5p brainstorming
+5p brainstorming mindmap
     
     Mindmap
     
@@ -14,7 +14,13 @@ Teaching for english lesson
     Mobilbiztonság
     
     kartyara felirni es kihuzzak
-10p kahoot/quizizz
+    legtobb dolog a mindmapon piros pontot er
+
+
+
+
+5p kahoot/quizizz
+
   
 
 [asd](https://youtube.com)
