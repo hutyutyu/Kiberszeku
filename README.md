@@ -21,7 +21,7 @@ Teaching for english lesson
 
 5p kahoot/quizizz
     10 kerdes
-
+    [quizizz](https://quizizz.com/join/quiz/60010f93f193f9001be2e2f4/start?studentShare=true)
     
 
   
