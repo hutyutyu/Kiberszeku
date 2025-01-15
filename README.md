@@ -10,6 +10,9 @@ Teaching for english lesson
     Enryption
     Kiberbűnözés és etikus hackelés
     Kiberfenyegetések és támadások
+    Felhőbiztonság
+    Mobilbiztonság
+    
     kartyara felirni es kihuzzak
 10p kahoot/quizizz
   
