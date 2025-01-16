@@ -8,9 +8,9 @@ Teaching for english lesson
     2FA
     Kiberbűnözés és etikus hackelés
     Kiberfenyegetések és támadások
+    Enryption
     (
     Firewall
-    Enryption
     Felhőbiztonság
     Mobilbiztonság
     )
