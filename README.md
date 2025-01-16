@@ -6,13 +6,14 @@ Teaching for english lesson
     Mindmap
     
     2FA
-    Firewall
-    Enryption
     Kiberbűnözés és etikus hackelés
     Kiberfenyegetések és támadások
+    (
+    Firewall
+    Enryption
     Felhőbiztonság
     Mobilbiztonság
-    
+    )
     kartyara felirni es kihuzzak
     legtobb dolog a mindmapon piros pontot er
 
