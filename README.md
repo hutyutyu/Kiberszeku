@@ -12,7 +12,7 @@ Teaching for english lesson
     (
     Firewall
     Felhőbiztonság
-    Mobilbiztonság
+    Phising
     )
     kartyara felirni es kihuzzak
     legtobb dolog a mindmapon piros pontot er
