@@ -5,15 +5,10 @@ Teaching for english lesson
     
     Mindmap
     
-    2FA
+    2FA & Enryption
     Kiberbűnözés és etikus hackelés
     Kiberfenyegetések és támadások
-    Enryption
-    (
-    Firewall
-    Felhőbiztonság
-    Phising
-    )
+
     kartyara felirni es kihuzzak
     legtobb dolog a mindmapon piros pontot er
 
